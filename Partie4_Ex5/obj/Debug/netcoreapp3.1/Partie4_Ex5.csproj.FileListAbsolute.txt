@@ -1,0 +1,12 @@
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/bin/Debug/netcoreapp3.1/Partie4_Ex5.deps.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/bin/Debug/netcoreapp3.1/Partie4_Ex5.runtimeconfig.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/bin/Debug/netcoreapp3.1/Partie4_Ex5.runtimeconfig.dev.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/bin/Debug/netcoreapp3.1/Partie4_Ex5.dll
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/bin/Debug/netcoreapp3.1/Partie4_Ex5.pdb
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.csprojAssemblyReference.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.AssemblyInfoInputs.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.AssemblyInfo.cs
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.csproj.CoreCompileInputs.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.dll
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.pdb
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie4_Ex5/Partie4_Ex5/obj/Debug/netcoreapp3.1/Partie4_Ex5.genruntimeconfig.cache
