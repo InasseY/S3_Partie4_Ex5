@@ -22,12 +22,20 @@ namespace Partie4_Ex5
             fujita.Add("F5", $"Dégâts incroyables : les maisons sont rasées ou projetées sur de grandes distances. Les tornades F5 peuvent causer des dommages très importants à de grosses structures telles que les écoles et les motels et peuvent arracher les murs extérieurs et les toits (parfois surnommé « le doigt de Dieu ».");
 
             Console.WriteLine(" renseigner le type d’une tornade FO/F1/F2/F3/F4/F5:  ");
-            ask = (Console.ReadLine());
+            ask = (Console.ReadLine()).ToUpper();
+
+            //demander de vérifier si la clés existe
+            if (fujita.ContainsKey(ask)) { 
 
             //on appelle la clés ask renseigner par l'utilisateur pour afficher les dégats
-            Console.WriteLine(fujita[ask]); 
+            Console.WriteLine(fujita[ask]); }
+            else
+            {
+                Console.WriteLine("entrer une valeur correct");
+            }
+        }
         }
     }
-}
+
 
 
